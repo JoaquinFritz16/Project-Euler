@@ -3,8 +3,12 @@ PROJECT EULAR - SOLUTIONS
 Problema 1:
   Resultado: 233168
   Verificado: SI
-
+6857
 
 Problema 2:
   Resultado: 4613732
+  Verificado: SI
+
+Problema 3:
+  Resultado: 6857
   Verificado: SI
