@@ -17,3 +17,7 @@ Problema 3:
 Problema 4:
   Resultado: 906609
   Verificado: SI
+
+Problema 5:
+  Resultado: 232792560
+  Verificado: SI
