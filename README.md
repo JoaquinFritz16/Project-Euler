@@ -3,7 +3,6 @@ PROJECT EULER - SOLUTIONS
 Problema 1:
   Resultado: 233168
   Verificado: SI
-6857
 
 Problema 2:
   Resultado: 4613732
@@ -12,6 +11,7 @@ Problema 2:
 Problema 3:
   Resultado: 6857
   Verificado: SI
+  (4 ciclos)
 
 
 Problema 4:
@@ -25,3 +25,8 @@ Problema 5:
 Problema 6:
   Resultado: 25164150
   Verificado: SI
+
+Problema 7:
+  Resultado: 104743
+  Verificado: SI
+  (2 ciclos)
