@@ -30,3 +30,7 @@ Problema 7:
   Resultado: 104743
   Verificado: SI
   (2 ciclos)
+
+Problema 8:
+  Resultado: 23514624000
+  Verificado: SI
